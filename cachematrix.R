@@ -5,6 +5,16 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+  ## teste para ver se clonou
+  ## teste 1 
+  ## teste 2
+  
+  ## teste 3
+  
+  
+  
+  
+  
 }
 
 
